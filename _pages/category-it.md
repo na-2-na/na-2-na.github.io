@@ -5,7 +5,7 @@ layout: category
 author_profile: true
 taxonomy: IT
 sidebar_main: true
-#sidebar:
-#  nav: "sidebar-category"
+sidebar:
+  nav: "sidebar-category"
 ---
 
