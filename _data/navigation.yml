@@ -14,8 +14,8 @@ sidebar-category:
   - title: "Category"
     children:
       - title: "IT"
-        url: "/it"
+        url: "/categories/it/"
       - title: "일상"
-        url:  "/daily"
+        url:  "/categories/daily/"
       - title: "여행"
-        url:  "/travel"
+        url:  "/categories/travel/"
