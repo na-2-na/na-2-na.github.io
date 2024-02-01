@@ -1,13 +1,13 @@
 ---
 title: "Redlock 작업"
 author: naina
-layout: archive
 categories: 
   - IT
 tags: 
   - Redlock
   - Redis
 date: 2024-02-01
+sidebar_main: true
 ---
 
 나의 첫 블로그 게시물은 레드락 관련이다.
