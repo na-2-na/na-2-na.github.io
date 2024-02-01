@@ -1,6 +1,6 @@
 ---
+layout: single
 title: "Redlock 작업"
-author: naina
 categories: 
   - IT
 tags: 
