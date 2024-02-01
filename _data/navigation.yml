@@ -14,10 +14,11 @@ main:
   - title : "About"
     url : /
   - title: "Category"
-    children:
-      - title: "IT"
-        url: "/categories/it/"
-      - title: "일상"
-        url:  "/categories/daily/"
-      - title: "여행"
-        url:  "/categories/travel/"
+    url : /categories/
+#    children:
+#      - title: "IT"
+#        url: "/categories/it/"
+#      - title: "일상"
+#        url:  "/categories/daily/"
+#      - title: "여행"
+#        url:  "/categories/travel/"
