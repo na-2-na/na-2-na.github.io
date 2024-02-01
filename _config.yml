@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -20,7 +20,7 @@ title                    : "거꾸로해도나이나"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "naina"
-description              : "아무거나끄적이기"
+description              : "An just website."
 url                      : "https://na-2-na.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -290,5 +290,3 @@ defaults:
       comments: # true
       share: true
       related: true
-#      sidebar:                  # 추가한 부분
-#        nav: "sidebar-category" # 추가한 부분
