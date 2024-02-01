@@ -1,9 +1,9 @@
 ---
-layout: single
 title: "Redlock 작업"
-categories: 
+excerpt: "redlock 적용 시 error 처리"
+categories:
   - IT
-tags: 
+tags:
   - Redlock
   - Redis
 date: 2024-02-01
