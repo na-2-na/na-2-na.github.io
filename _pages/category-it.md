@@ -1,7 +1,7 @@
 ---
 title: "IT"
 layout: archive
-permalink: /it
+permalink: /it/
 ---
 
 

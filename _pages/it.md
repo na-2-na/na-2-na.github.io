@@ -1,6 +1,6 @@
 ---
 title: "소소한 IT"
-permalink: /categories/IT/
+permalink: /categories/it/
 layout: category
 author_profile: true
 taxonomy: IT
