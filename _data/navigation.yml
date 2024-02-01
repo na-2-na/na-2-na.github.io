@@ -10,15 +10,17 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-#sidebar-category:
+
   - title : "About"
-    url : /
+#    url : /
   - title: "Category"
     url : /categories/
-#    children:
-#      - title: "IT"
-#        url: "/categories/it/"
-#      - title: "일상"
-#        url:  "/categories/daily/"
-#      - title: "여행"
-#        url:  "/categories/travel/"
+sidebar-category:
+  - title : "Category"
+    children:
+      - title: "IT"
+        url: "/categories/it/"
+      - title: "일상"
+        url:  "/categories/daily/"
+      - title: "여행"
+        url:  "/categories/travel/"
