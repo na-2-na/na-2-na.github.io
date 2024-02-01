@@ -7,6 +7,8 @@ tags:
   - Redlock
   - Redis
 date: 2024-02-01
+sidebar:
+  nav: "main"
 ---
 
 나의 첫 블로그 게시물은 레드락 관련이다.
