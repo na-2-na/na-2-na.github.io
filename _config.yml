@@ -73,9 +73,9 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : googlefa6eac765fe11cc3.html
 bing_site_verification   :
-naver_site_verification  :
+naver_site_verification  : naver97ca90037b69e98bbceaee4366fbb755.html
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -287,7 +287,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
-      sidebar-category: true
+      mathjax: true
+      sidebar_main: true
+
