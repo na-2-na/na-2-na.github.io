@@ -3,9 +3,8 @@ title: "Redlock 작업"
 author: naina
 layout: archive
 date: 2024-02-01 
-categories: [it]
+categories: [IT]
 tags: [Redlock, Redis]
-permalink: /it
 ---
 
 나의 첫 블로그 게시물은 레드락 관련이다.
