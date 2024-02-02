@@ -19,6 +19,7 @@ Github를 통해 블로그를 만들기로 결심했다.
 
 이후 해당 repository에 들어가서 setting에 Repository name 변경해주면 된다.
 
+
 (![img1](https://github.com/na-2-na/na-2-na.github.io/assets/157337980/f5022998-27af-4ed8-8121-189d11b2ac1d)
 
 
@@ -49,6 +50,7 @@ sidebar:
 2. 카테고리로 표현하고 싶은 거를 _pages 내에 md파일 만들기
 
 나 같은 경우는 it 라는 카테고리를 만들었고, 아래와 같이 category-it.md 파일을 만들었다.
+
 ![img2](https://github.com/na-2-na/na-2-na.github.io/assets/157337980/429b507e-b4ca-4c56-ab1f-db5ded2d655f)
 
 
