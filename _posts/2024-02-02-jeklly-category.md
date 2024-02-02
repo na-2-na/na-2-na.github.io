@@ -70,7 +70,8 @@ sidebar:
 ```
 
 3. _config.yml 부분 수정
-```angular2html
+
+```
 # Defaults
 defaults:
   # _posts
@@ -92,7 +93,7 @@ defaults:
 ```
 
 4. 게시물내에 Front Matter에 아래 내용 추가
-```angular2html
+```
 sidebar:
   nav: "sidebar-category"
 ```
