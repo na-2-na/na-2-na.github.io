@@ -19,7 +19,7 @@ Github를 통해 블로그를 만들기로 결심했다.
 
 이후 해당 repository에 들어가서 setting에 Repository name 변경해주면 된다.
 
-![img.png](img.png)
+![img1.png](..%2Fassets%2Fimg%2Fimg1.png)
 
 
 이러면 기본적인건 끝
@@ -49,7 +49,7 @@ sidebar:
 
 나 같은 경우는 it 라는 카테고리를 만들었고, 아래와 같이 category-it.md 파일을 만들었다.
 
-![img_1.png](img_1.png)
+![img2.png](..%2Fassets%2Fimg%2Fimg2.png)
 
 category-it.md 파일내용
 ```
