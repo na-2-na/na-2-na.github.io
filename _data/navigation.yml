@@ -20,6 +20,8 @@ sidebar-category:
     children:
       - title: "IT"
         url: "/categories/it/"
+      - title: "주식시황"
+        url: "/categories/stock/"
       - title: "일상"
         url:  "/categories/daily/"
       - title: "여행"
