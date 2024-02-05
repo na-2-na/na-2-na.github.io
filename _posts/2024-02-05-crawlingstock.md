@@ -40,6 +40,7 @@ GPT에게 여러번 질문하여 잘 수행되는 코드를 받았고,
 
 
 <div class="no-copy">
+
 ```python
 
 def get_stock_research(title, date, author, categories=None, tags=None):
