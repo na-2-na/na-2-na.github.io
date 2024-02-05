@@ -10,6 +10,7 @@ date: 2024-02-01
 sidebar:
   nav: "sidebar-category"
 ---
+<div oncopy="return false;">
 
 네이버에 주식시황을 볼 수 있는 페이지가 있다.
 
@@ -122,12 +123,5 @@ sidebar:
 
 
 ```
+
 </div>
-<script>
-document.querySelectorAll('.no-copy code').forEach(function(el) {
-  el.addEventListener('copy', function(e) {
-    e.preventDefault();
-    alert('복사할 수 없습니다.');
-  });
-});
-</script>
