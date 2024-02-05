@@ -10,8 +10,6 @@ date: 2024-02-01
 sidebar:
   nav: "sidebar-category"
 ---
-<div oncopy="return false;">
-
 네이버에 주식시황을 볼 수 있는 페이지가 있다.
 
     # 네이버 금융 리서치 페이지 URL
@@ -38,9 +36,6 @@ GPT에게 여러번 질문하여 잘 수행되는 코드를 받았고,
 나를 위한 페이지?가 아닐까 싶다.
 
 주식시황만 긁어오는 부분을 코드로 남겨본다.
-
-
-<div class="no-copy">
 
 ```python
 
@@ -123,5 +118,3 @@ sidebar:
 
 
 ```
-
-</div>
